@@ -41,7 +41,6 @@ Dataset <- rbind(Train, Test)
 colnames(Dataset) <- c(features[,1], "Activity", "Subject")
 
 
-
 # 2. Extract only the measurements on the mean and standard deviation for each measurement. 
 
 Dataset_mean_sd <- Dataset[, grep("std|mean|Activity|Subject", colnames(Dataset))]
@@ -52,7 +51,6 @@ Dataset_mean_sd <- Dataset[, grep("std|mean|Activity|Subject", colnames(Dataset)
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt", quote="\"", comment.char="")
 
 Dataset_mean_sd$Activity <- activity_labels$V2[match(Dataset_mean_sd$Activity,activity_labels$V1)]
-
 
 
 # 4. Appropriately labels the data set with descriptive variable names. 
@@ -72,11 +70,7 @@ tidy_dataset <- Dataset_mean_sd %>% arrange(Subject, Activity) %>%
 
 # Finally we write down into a txt file the result:
 
-write.table(tidy_dataset, file = "tidy_dataset.txt")
-
-
-
-
+write.table(tidy_dataset, file = "tidy_dataset.txt", row.names = FALSE)
 
 
 
