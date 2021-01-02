@@ -3,7 +3,6 @@ title: "Codebook for UCI HAR Dataset"
 author: "Carlos Sanchez"
 date: "2/Jan/2021"
 output: github_document
-always_allow_html: true
 ---
 
 ```{r setup, include=FALSE}
@@ -28,7 +27,7 @@ codebook(
   tidy_dataset,
   reliabilities = NULL,
   survey_repetition = c("auto", "single", "repeated_once", "repeated_many"),
-  detailed_variables = TRUE,
+  detailed_variables = FALSE,
   detailed_scales = TRUE,
   survey_overview = TRUE,
   missingness_report = TRUE,
