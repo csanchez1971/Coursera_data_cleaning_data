@@ -4,7 +4,6 @@ author: "Carlos Sanchez"
 date: "2/Jan/2021"
 output: github_document
 always_allow_html: true
-
 ---
 
 ```{r setup, include=FALSE}

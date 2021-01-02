@@ -132,7 +132,7 @@ for search engines</summary>
 #### Distribution
 
 ![Distribution of values for
-Subject](codebook_files/figure-gfm/cb_tidy_dataset_Subject_distribution-1.png)
+Subject](CodeBook_files/figure-gfm/cb_tidy_dataset_Subject_distribution-1.png)
 
 0 missing values.
 
@@ -147,7 +147,7 @@ Subject](codebook_files/figure-gfm/cb_tidy_dataset_Subject_distribution-1.png)
 #### Distribution
 
 ![Distribution of values for
-Activity](codebook_files/figure-gfm/cb_tidy_dataset_Activity_distribution-16-1.png)
+Activity](CodeBook_files/figure-gfm/cb_tidy_dataset_Activity_distribution-16-1.png)
 
 0 missing values.
 
@@ -162,7 +162,7 @@ Activity](codebook_files/figure-gfm/cb_tidy_dataset_Activity_distribution-16-1.p
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_X_distribution-23-1.png)
+tBodyAcc.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_X_distribution-23-1.png)
 
 0 missing values.
 
@@ -177,7 +177,7 @@ tBodyAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_X_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Y_distribution-30-1.png)
+tBodyAcc.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Y_distribution-30-1.png)
 
 0 missing values.
 
@@ -192,7 +192,7 @@ tBodyAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Y_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Z_distribution-37-1.png)
+tBodyAcc.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Z_distribution-37-1.png)
 
 0 missing values.
 
@@ -207,7 +207,7 @@ tBodyAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_mean_Z_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_X_distribution-44-1.png)
+tBodyAcc.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_X_distribution-44-1.png)
 
 0 missing values.
 
@@ -222,7 +222,7 @@ tBodyAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_X_distrib
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Y_distribution-51-1.png)
+tBodyAcc.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Y_distribution-51-1.png)
 
 0 missing values.
 
@@ -237,7 +237,7 @@ tBodyAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Y_distrib
 #### Distribution
 
 ![Distribution of values for
-tBodyAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Z_distribution-58-1.png)
+tBodyAcc.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Z_distribution-58-1.png)
 
 0 missing values.
 
@@ -252,7 +252,7 @@ tBodyAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAcc_std_Z_distrib
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_X_distribution-65-1.png)
+tGravityAcc.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_X_distribution-65-1.png)
 
 0 missing values.
 
@@ -267,7 +267,7 @@ tGravityAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_X
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Y_distribution-72-1.png)
+tGravityAcc.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Y_distribution-72-1.png)
 
 0 missing values.
 
@@ -282,7 +282,7 @@ tGravityAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Y
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Z_distribution-79-1.png)
+tGravityAcc.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Z_distribution-79-1.png)
 
 0 missing values.
 
@@ -297,7 +297,7 @@ tGravityAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_mean_Z
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_X_distribution-86-1.png)
+tGravityAcc.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_X_distribution-86-1.png)
 
 0 missing values.
 
@@ -312,7 +312,7 @@ tGravityAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_X_d
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Y_distribution-93-1.png)
+tGravityAcc.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Y_distribution-93-1.png)
 
 0 missing values.
 
@@ -327,7 +327,7 @@ tGravityAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Y_d
 #### Distribution
 
 ![Distribution of values for
-tGravityAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Z_distribution-100-1.png)
+tGravityAcc.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Z_distribution-100-1.png)
 
 0 missing values.
 
@@ -342,7 +342,7 @@ tGravityAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAcc_std_Z_d
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_X_distribution-107-1.png)
+tBodyAccJerk.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_X_distribution-107-1.png)
 
 0 missing values.
 
@@ -357,7 +357,7 @@ tBodyAccJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_Y_distribution-114-1.png)
+tBodyAccJerk.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_Y_distribution-114-1.png)
 
 0 missing values.
 
@@ -372,7 +372,7 @@ tBodyAccJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_Z_distribution-121-1.png)
+tBodyAccJerk.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean_Z_distribution-121-1.png)
 
 0 missing values.
 
@@ -387,7 +387,7 @@ tBodyAccJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_X_distribution-128-1.png)
+tBodyAccJerk.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_X_distribution-128-1.png)
 
 0 missing values.
 
@@ -402,7 +402,7 @@ tBodyAccJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_X
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Y_distribution-135-1.png)
+tBodyAccJerk.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Y_distribution-135-1.png)
 
 0 missing values.
 
@@ -417,7 +417,7 @@ tBodyAccJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Y
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Z_distribution-142-1.png)
+tBodyAccJerk.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Z_distribution-142-1.png)
 
 0 missing values.
 
@@ -432,7 +432,7 @@ tBodyAccJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerk_std_Z
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_X_distribution-149-1.png)
+tBodyGyro.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_X_distribution-149-1.png)
 
 0 missing values.
 
@@ -447,7 +447,7 @@ tBodyGyro.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_X_dis
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Y_distribution-156-1.png)
+tBodyGyro.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Y_distribution-156-1.png)
 
 0 missing values.
 
@@ -462,7 +462,7 @@ tBodyGyro.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Y_dis
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Z_distribution-163-1.png)
+tBodyGyro.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Z_distribution-163-1.png)
 
 0 missing values.
 
@@ -477,7 +477,7 @@ tBodyGyro.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_mean_Z_dis
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_X_distribution-170-1.png)
+tBodyGyro.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_X_distribution-170-1.png)
 
 0 missing values.
 
@@ -492,7 +492,7 @@ tBodyGyro.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_X_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Y_distribution-177-1.png)
+tBodyGyro.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Y_distribution-177-1.png)
 
 0 missing values.
 
@@ -507,7 +507,7 @@ tBodyGyro.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Y_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyGyro.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Z_distribution-184-1.png)
+tBodyGyro.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Z_distribution-184-1.png)
 
 0 missing values.
 
@@ -522,7 +522,7 @@ tBodyGyro.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyro_std_Z_distr
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_X_distribution-191-1.png)
+tBodyGyroJerk.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_X_distribution-191-1.png)
 
 0 missing values.
 
@@ -537,7 +537,7 @@ tBodyGyroJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_me
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_Y_distribution-198-1.png)
+tBodyGyroJerk.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_Y_distribution-198-1.png)
 
 0 missing values.
 
@@ -552,7 +552,7 @@ tBodyGyroJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_me
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_Z_distribution-205-1.png)
+tBodyGyroJerk.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_mean_Z_distribution-205-1.png)
 
 0 missing values.
 
@@ -567,7 +567,7 @@ tBodyGyroJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_me
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_X_distribution-212-1.png)
+tBodyGyroJerk.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_X_distribution-212-1.png)
 
 0 missing values.
 
@@ -582,7 +582,7 @@ tBodyGyroJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_Y_distribution-219-1.png)
+tBodyGyroJerk.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_Y_distribution-219-1.png)
 
 0 missing values.
 
@@ -597,7 +597,7 @@ tBodyGyroJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_Z_distribution-226-1.png)
+tBodyGyroJerk.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std_Z_distribution-226-1.png)
 
 0 missing values.
 
@@ -612,7 +612,7 @@ tBodyGyroJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerk_std
 #### Distribution
 
 ![Distribution of values for
-tBodyAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_mean_distribution-233-1.png)
+tBodyAccMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_mean_distribution-233-1.png)
 
 0 missing values.
 
@@ -627,7 +627,7 @@ tBodyAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_mean_dis
 #### Distribution
 
 ![Distribution of values for
-tBodyAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_std_distribution-240-1.png)
+tBodyAccMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_std_distribution-240-1.png)
 
 0 missing values.
 
@@ -642,7 +642,7 @@ tBodyAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccMag_std_distr
 #### Distribution
 
 ![Distribution of values for
-tGravityAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_mean_distribution-247-1.png)
+tGravityAccMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_mean_distribution-247-1.png)
 
 0 missing values.
 
@@ -657,7 +657,7 @@ tGravityAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_me
 #### Distribution
 
 ![Distribution of values for
-tGravityAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_std_distribution-254-1.png)
+tGravityAccMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_std_distribution-254-1.png)
 
 0 missing values.
 
@@ -672,7 +672,7 @@ tGravityAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tGravityAccMag_std
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_mean_distribution-261-1.png)
+tBodyAccJerkMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_mean_distribution-261-1.png)
 
 0 missing values.
 
@@ -687,7 +687,7 @@ tBodyAccJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_
 #### Distribution
 
 ![Distribution of values for
-tBodyAccJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_std_distribution-268-1.png)
+tBodyAccJerkMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_std_distribution-268-1.png)
 
 0 missing values.
 
@@ -702,7 +702,7 @@ tBodyAccJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyAccJerkMag_s
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_mean_distribution-275-1.png)
+tBodyGyroMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_mean_distribution-275-1.png)
 
 0 missing values.
 
@@ -717,7 +717,7 @@ tBodyGyroMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_mean_d
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_std_distribution-282-1.png)
+tBodyGyroMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_std_distribution-282-1.png)
 
 0 missing values.
 
@@ -732,7 +732,7 @@ tBodyGyroMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroMag_std_dis
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMag_mean_distribution-289-1.png)
+tBodyGyroJerkMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMag_mean_distribution-289-1.png)
 
 0 missing values.
 
@@ -747,7 +747,7 @@ tBodyGyroJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMa
 #### Distribution
 
 ![Distribution of values for
-tBodyGyroJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMag_std_distribution-296-1.png)
+tBodyGyroJerkMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMag_std_distribution-296-1.png)
 
 0 missing values.
 
@@ -762,7 +762,7 @@ tBodyGyroJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_tBodyGyroJerkMag
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_X_distribution-303-1.png)
+fBodyAcc.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_X_distribution-303-1.png)
 
 0 missing values.
 
@@ -777,7 +777,7 @@ fBodyAcc.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_X_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Y_distribution-310-1.png)
+fBodyAcc.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Y_distribution-310-1.png)
 
 0 missing values.
 
@@ -792,7 +792,7 @@ fBodyAcc.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Y_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Z_distribution-317-1.png)
+fBodyAcc.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Z_distribution-317-1.png)
 
 0 missing values.
 
@@ -807,7 +807,7 @@ fBodyAcc.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_mean_Z_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_X_distribution-324-1.png)
+fBodyAcc.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_X_distribution-324-1.png)
 
 0 missing values.
 
@@ -822,7 +822,7 @@ fBodyAcc.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_X_distrib
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Y_distribution-331-1.png)
+fBodyAcc.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Y_distribution-331-1.png)
 
 0 missing values.
 
@@ -837,7 +837,7 @@ fBodyAcc.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Y_distrib
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Z_distribution-338-1.png)
+fBodyAcc.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Z_distribution-338-1.png)
 
 0 missing values.
 
@@ -852,7 +852,7 @@ fBodyAcc.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_std_Z_distrib
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_X_distribution-345-1.png)
+fBodyAcc.meanFreq.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_X_distribution-345-1.png)
 
 0 missing values.
 
@@ -867,7 +867,7 @@ fBodyAcc.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_Y_distribution-352-1.png)
+fBodyAcc.meanFreq.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_Y_distribution-352-1.png)
 
 0 missing values.
 
@@ -882,7 +882,7 @@ fBodyAcc.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq
 #### Distribution
 
 ![Distribution of values for
-fBodyAcc.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_Z_distribution-359-1.png)
+fBodyAcc.meanFreq.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq_Z_distribution-359-1.png)
 
 0 missing values.
 
@@ -897,7 +897,7 @@ fBodyAcc.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAcc_meanFreq
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_X_distribution-366-1.png)
+fBodyAccJerk.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_X_distribution-366-1.png)
 
 0 missing values.
 
@@ -912,7 +912,7 @@ fBodyAccJerk.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_Y_distribution-373-1.png)
+fBodyAccJerk.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_Y_distribution-373-1.png)
 
 0 missing values.
 
@@ -927,7 +927,7 @@ fBodyAccJerk.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_Z_distribution-380-1.png)
+fBodyAccJerk.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean_Z_distribution-380-1.png)
 
 0 missing values.
 
@@ -942,7 +942,7 @@ fBodyAccJerk.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_mean
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_X_distribution-387-1.png)
+fBodyAccJerk.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_X_distribution-387-1.png)
 
 0 missing values.
 
@@ -957,7 +957,7 @@ fBodyAccJerk.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_X
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Y_distribution-394-1.png)
+fBodyAccJerk.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Y_distribution-394-1.png)
 
 0 missing values.
 
@@ -972,7 +972,7 @@ fBodyAccJerk.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Y
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Z_distribution-401-1.png)
+fBodyAccJerk.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Z_distribution-401-1.png)
 
 0 missing values.
 
@@ -987,7 +987,7 @@ fBodyAccJerk.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_std_Z
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_X_distribution-408-1.png)
+fBodyAccJerk.meanFreq.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_X_distribution-408-1.png)
 
 0 missing values.
 
@@ -1002,7 +1002,7 @@ fBodyAccJerk.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_Y_distribution-415-1.png)
+fBodyAccJerk.meanFreq.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_Y_distribution-415-1.png)
 
 0 missing values.
 
@@ -1017,7 +1017,7 @@ fBodyAccJerk.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_
 #### Distribution
 
 ![Distribution of values for
-fBodyAccJerk.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_Z_distribution-422-1.png)
+fBodyAccJerk.meanFreq.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_meanFreq_Z_distribution-422-1.png)
 
 0 missing values.
 
@@ -1032,7 +1032,7 @@ fBodyAccJerk.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccJerk_
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_X_distribution-429-1.png)
+fBodyGyro.mean.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_X_distribution-429-1.png)
 
 0 missing values.
 
@@ -1047,7 +1047,7 @@ fBodyGyro.mean.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_X_dis
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Y_distribution-436-1.png)
+fBodyGyro.mean.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Y_distribution-436-1.png)
 
 0 missing values.
 
@@ -1062,7 +1062,7 @@ fBodyGyro.mean.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Y_dis
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Z_distribution-443-1.png)
+fBodyGyro.mean.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Z_distribution-443-1.png)
 
 0 missing values.
 
@@ -1077,7 +1077,7 @@ fBodyGyro.mean.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_mean_Z_dis
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_X_distribution-450-1.png)
+fBodyGyro.std.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_X_distribution-450-1.png)
 
 0 missing values.
 
@@ -1092,7 +1092,7 @@ fBodyGyro.std.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_X_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Y_distribution-457-1.png)
+fBodyGyro.std.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Y_distribution-457-1.png)
 
 0 missing values.
 
@@ -1107,7 +1107,7 @@ fBodyGyro.std.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Y_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Z_distribution-464-1.png)
+fBodyGyro.std.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Z_distribution-464-1.png)
 
 0 missing values.
 
@@ -1122,7 +1122,7 @@ fBodyGyro.std.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_std_Z_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_X_distribution-471-1.png)
+fBodyGyro.meanFreq.X](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_X_distribution-471-1.png)
 
 0 missing values.
 
@@ -1137,7 +1137,7 @@ fBodyGyro.meanFreq.X](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFr
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_Y_distribution-478-1.png)
+fBodyGyro.meanFreq.Y](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_Y_distribution-478-1.png)
 
 0 missing values.
 
@@ -1152,7 +1152,7 @@ fBodyGyro.meanFreq.Y](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFr
 #### Distribution
 
 ![Distribution of values for
-fBodyGyro.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_Z_distribution-485-1.png)
+fBodyGyro.meanFreq.Z](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFreq_Z_distribution-485-1.png)
 
 0 missing values.
 
@@ -1167,7 +1167,7 @@ fBodyGyro.meanFreq.Z](codebook_files/figure-gfm/cb_tidy_dataset_fBodyGyro_meanFr
 #### Distribution
 
 ![Distribution of values for
-fBodyAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_mean_distribution-492-1.png)
+fBodyAccMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_mean_distribution-492-1.png)
 
 0 missing values.
 
@@ -1182,7 +1182,7 @@ fBodyAccMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_mean_dis
 #### Distribution
 
 ![Distribution of values for
-fBodyAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_std_distribution-499-1.png)
+fBodyAccMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_std_distribution-499-1.png)
 
 0 missing values.
 
@@ -1197,7 +1197,7 @@ fBodyAccMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_std_distr
 #### Distribution
 
 ![Distribution of values for
-fBodyAccMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_meanFreq_distribution-506-1.png)
+fBodyAccMag.meanFreq](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_meanFreq_distribution-506-1.png)
 
 0 missing values.
 
@@ -1212,7 +1212,7 @@ fBodyAccMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyAccMag_mean
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyAccJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_mean_distribution-513-1.png)
+fBodyBodyAccJerkMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_mean_distribution-513-1.png)
 
 0 missing values.
 
@@ -1227,7 +1227,7 @@ fBodyBodyAccJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAcc
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyAccJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_std_distribution-520-1.png)
+fBodyBodyAccJerkMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_std_distribution-520-1.png)
 
 0 missing values.
 
@@ -1242,7 +1242,7 @@ fBodyBodyAccJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJ
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyAccJerkMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_meanFreq_distribution-527-1.png)
+fBodyBodyAccJerkMag.meanFreq](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyAccJerkMag_meanFreq_distribution-527-1.png)
 
 0 missing values.
 
@@ -1257,7 +1257,7 @@ fBodyBodyAccJerkMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBod
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_mean_distribution-534-1.png)
+fBodyBodyGyroMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_mean_distribution-534-1.png)
 
 0 missing values.
 
@@ -1272,7 +1272,7 @@ fBodyBodyGyroMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMa
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_std_distribution-541-1.png)
+fBodyBodyGyroMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_std_distribution-541-1.png)
 
 0 missing values.
 
@@ -1287,7 +1287,7 @@ fBodyBodyGyroMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_meanFreq_distribution-548-1.png)
+fBodyBodyGyroMag.meanFreq](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroMag_meanFreq_distribution-548-1.png)
 
 0 missing values.
 
@@ -1302,7 +1302,7 @@ fBodyBodyGyroMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGy
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_mean_distribution-555-1.png)
+fBodyBodyGyroJerkMag.mean](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_mean_distribution-555-1.png)
 
 0 missing values.
 
@@ -1317,7 +1317,7 @@ fBodyBodyGyroJerkMag.mean](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGy
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_std_distribution-562-1.png)
+fBodyBodyGyroJerkMag.std](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_std_distribution-562-1.png)
 
 0 missing values.
 
@@ -1332,7 +1332,7 @@ fBodyBodyGyroJerkMag.std](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyr
 #### Distribution
 
 ![Distribution of values for
-fBodyBodyGyroJerkMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_meanFreq_distribution-569-1.png)
+fBodyBodyGyroJerkMag.meanFreq](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBodyGyroJerkMag_meanFreq_distribution-569-1.png)
 
 0 missing values.
 
@@ -1346,7 +1346,7 @@ fBodyBodyGyroJerkMag.meanFreq](codebook_files/figure-gfm/cb_tidy_dataset_fBodyBo
 
 ## Codebook table
 
-![](codebook_files/figure-gfm/cb_tidy_dataset_items__items-1.png)<!-- -->
+![](CodeBook_files/figure-gfm/cb_tidy_dataset_items__items-1.png)<!-- -->
 
 <script type="application/ld+json">
 {
