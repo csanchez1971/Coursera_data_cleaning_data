@@ -27,11 +27,11 @@ codebook(
   tidy_dataset,
   reliabilities = NULL,
   survey_repetition = c("auto", "single", "repeated_once", "repeated_many"),
-  detailed_variables = FALSE,
+  detailed_variables = TRUE,
   detailed_scales = TRUE,
   survey_overview = TRUE,
   missingness_report = TRUE,
-  metadata_table = TRUE,
+  metadata_table = FALSE,
   indent = "#"
 )
 ```
