@@ -1,5 +1,5 @@
 Codebook for UCI HAR Dataset
-================ 
+================
 Carlos Sanchez
 2/Jan/2021
 
