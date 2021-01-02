@@ -1344,6 +1344,10 @@ fBodyBodyGyroJerkMag.meanFreq](CodeBook_files/figure-gfm/cb_tidy_dataset_fBodyBo
 
 ## Missingness report
 
+## Codebook table
+
+![](CodeBook_files/figure-gfm/cb_tidy_dataset_items__items-1.png)<!-- -->
+
 <script type="application/ld+json">
 {
   "name": "tidy_dataset",
