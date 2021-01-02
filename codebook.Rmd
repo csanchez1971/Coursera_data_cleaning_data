@@ -2,10 +2,9 @@
 title: "Codebook for UCI HAR Dataset"
 author: "Carlos Sanchez"
 date: "2/Jan/2021"
-output:
-  html_document:
-    df_print: paged
-  pdf_document: default
+output: github_document
+always_allow_html: true
+
 ---
 
 ```{r setup, include=FALSE}
