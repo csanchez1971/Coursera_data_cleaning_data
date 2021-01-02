@@ -1,0 +1,39 @@
+---
+title: "Codebook for UCI HAR Dataset"
+author: "Carlos Sanchez"
+date: "2/Jan/2021"
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(codebook)
+library(future)
+```
+
+
+
+```{r cars}
+tidy_dataset <- read.csv("~/R courses/Cleaning data/Coursera_data_cleaning_data/tidy_dataset.txt", sep="")
+
+codebook(
+  tidy_dataset,
+  reliabilities = NULL,
+  survey_repetition = c("auto", "single", "repeated_once", "repeated_many"),
+  detailed_variables = TRUE,
+  detailed_scales = TRUE,
+  survey_overview = TRUE,
+  missingness_report = TRUE,
+  metadata_table = TRUE,
+  indent = "#"
+)
+```
+
+

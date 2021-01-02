@@ -37,7 +37,6 @@ subject_train <- read.table("./UCI HAR Dataset/train/subject_train.txt", quote="
 
 Train <- cbind(X_train, Activity_train, subject_train)
 
-
 Dataset <- rbind(Train, Test)
 colnames(Dataset) <- c(features[,1], "Activity", "Subject")
 
@@ -71,7 +70,9 @@ tidy_dataset <- Dataset_mean_sd %>% arrange(Subject, Activity) %>%
                       summarise_at(vars(1:79), mean)
 
 
+# Finally we write down into a txt file the result:
 
+write.table(tidy_dataset, file = "tidy_dataset.txt")
 
 
 
